@@ -2,7 +2,7 @@ import { render } from 'preact';
 import { useState, useEffect } from 'preact/hooks';
 import Bid from './Components/Bid/Bid';
 import Dataview from './Components/Dataview/Dataview';
-import Profit from './Components/Profit/profit';
+import Profit from './Components/Profit/Profit';
 import './style.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import  'bootstrap';
